@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body {
+    height: 100%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(108, 108, 189);
+}
+.container {
+    background-color: white;
+    border-radius: 30px;
+    width: 40%;
+    height: 150px;
+    text-align: center;
+}
+#colorID{
+    margin: 25px 10px 25px 10px
+}
+#btn{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+}
